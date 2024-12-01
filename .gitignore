@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs and debugging
+*.log
+*.out
+
+# Virtual Environments
+.env/
+.venv/
+venv/
+env/
+Pipfile.lock
+poetry.lock
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+
+# Pip
+pip-wheel-metadata/
+pip-log.txt
+
+# Docker
+*.dockerignore
+
+# Node.js (for hybrid projects)
+node_modules/
+
+# System files
+Thumbs.db
