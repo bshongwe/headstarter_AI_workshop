@@ -34,7 +34,7 @@ This project focuses on integrating and interacting with various AI services usi
 
 ```plaintext
 ├── notebooks/
-│   └── Headstarter_AI_Workshop.ipynb    # Jupyter Notebook with code and explanations
+│   └── AI_Agent_Workshop.ipynb           # Jupyter Notebook with code and explanations
 ├── README.md                             # Project documentation
 ├── requirements.txt                      # Python dependencies
 └── .gitignore                            # Files to ignore in Git
