@@ -52,8 +52,8 @@ This project focuses on integrating and interacting with various AI services usi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/bshongwe/headstarter_AI_workshop.git
+cd headstarter_AI_workshop
 ```
 
 ### Install Dependencies
