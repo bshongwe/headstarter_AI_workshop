@@ -1,5 +1,11 @@
 # 🧠 Headstarter AI Agent Workshop
 
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/headstarter_AI_workshop)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/headstarter_AI_workshop)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/headstarter_AI_workshop)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/headstarter_AI_workshop)
+![GitHub License](https://img.shields.io/github/license/bshongwe/headstarter_AI_workshop)
+
 Welcome to the **Headstarter AI Agent Workshop**! This project explores how to interact with cutting-edge Large Language Models (LLMs) using **Groq**, **OpenRouter**, and **OpenAI** APIs. Our goal is to provide a robust foundation for understanding AI model behavior, prompt engineering, and API integration.
 
 ---
