@@ -4,6 +4,15 @@ Welcome to the **Headstarter AI Agent Workshop**! This project explores how to i
 
 ---
 
+## 🚀 Repo Statistics
+
+| **Statistic** | **Badge**                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| Stars         | ![Stars](https://img.shields.io/github/stars/bshongwe/headstarter_AI_workshop?style=social) |
+| Forks         | ![Forks](https://img.shields.io/github/forks/bshongwe/headstarter_AI_workshop?style=social) |
+
+---
+
 ## 📌 Table of Contents
 
 - [🚀 Project Overview](#-project-overview)  
@@ -120,14 +129,14 @@ os.environ['OPENAI_API_KEY'] = "your-openai-api-key"
 
 ## 🛠️ Technology Stack
 
-| **Technology** | **Description**                     | **Link**                              |
-|----------------|-------------------------------------|---------------------------------------|
-| Python         | Programming language                | [Python](https://www.python.org)      |
-| Jupyter Notebook | Interactive coding environment   | [Jupyter](https://jupyter.org)        |
-| Groq API       | AI model API                        | [Groq](https://www.groq.com)          |
-| OpenRouter API | Multi-LLM API integration           | [OpenRouter](https://openrouter.ai)   |
-| OpenAI API     | Access to OpenAI models             | [OpenAI](https://openai.com)          |
-| Pip            | Python package manager              | [Pip](https://pip.pypa.io/en/stable/) |
+| **Technology**  | **Description**                     | **Link**                              | **Badge**                                                                 |
+|-----------------|-------------------------------------|---------------------------------------|---------------------------------------------------------------------------|
+| Python          | Programming language                | [Python](https://www.python.org)      | ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)     |
+| Jupyter Notebook| Interactive coding environment      | [Jupyter](https://jupyter.org)        | ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) |
+| Groq API        | AI model API                        | [Groq](https://www.groq.com)          | ![Groq](https://img.shields.io/badge/Groq-API-green?logo=groq)           |
+| OpenRouter API  | Multi-LLM API integration           | [OpenRouter](https://openrouter.ai)   | ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-red?logo=openrouter) |
+| OpenAI API      | Access to OpenAI models             | [OpenAI](https://openai.com)          | ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai)      |
+| Pip             | Python package manager              | [Pip](https://pip.pypa.io/en/stable/) | ![Pip](https://img.shields.io/badge/Pip-Package%20Manager-blueviolet?logo=pypi) |
 
 ---
 
